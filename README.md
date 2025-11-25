@@ -13,9 +13,9 @@ I created this repo to track my learning journey and improve my coding skills da
 - Python Indention 
 
 ## Day 2
-- 
-- 
-- 
+- variables
+- datatypes
+- input-output ( mini assigemnet enter user name, age and city)
 
 ## Day 3
 - 
